@@ -27,7 +27,7 @@ Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi de
 
 ## Proje Görünümü
 
-[![image](https://www.linkpicture.com/q/proje.png)](https://www.linkpicture.com/view.php?img=LPic62e3ea36f0f131315022508)
+[![image](https://www.linkpicture.com/q/proje.png)](https://github.com/Esra-Turk/kodluyoruzilkrepo/blob/main/index.html)
 
 
 
