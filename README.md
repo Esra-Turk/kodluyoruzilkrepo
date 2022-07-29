@@ -27,7 +27,7 @@ Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi de
 
 ## Proje Görünümü
 
-![proje](https://imgyukle.com/i/V4bKDx)
+[![image](https://www.linkpicture.com/q/proje.png)](https://www.linkpicture.com/view.php?img=LPic62e3ea36f0f131315022508)
 
 
 
