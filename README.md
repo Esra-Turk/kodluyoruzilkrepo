@@ -25,5 +25,9 @@ Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi de
 ## License
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
+## Proje Görünümü
+
+![proje](https://imgyukle.com/i/V4bKDx)
+
 
 
